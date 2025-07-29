@@ -1,3 +1,6 @@
 [submodule "server/member"]
 	path = server/member
 	url = https://github.com/kyeong8139/git-check.member.git
+[submodule "server/report"]
+	path = server/report
+	url = https://github.com/kyeong8139/git-check.report
