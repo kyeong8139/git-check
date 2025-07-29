@@ -4,3 +4,6 @@
 [submodule "server/report"]
 	path = server/report
 	url = https://github.com/kyeong8139/git-check.report
+[submodule "server/ai"]
+	path = server/ai
+	url = https://github.com/kyeong8139/git-check.ai
