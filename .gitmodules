@@ -7,3 +7,6 @@
 [submodule "server/ai"]
 	path = server/ai
 	url = https://github.com/kyeong8139/git-check.ai
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/kyeong8139/git-check.api-gateway.git
