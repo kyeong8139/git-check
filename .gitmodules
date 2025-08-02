@@ -10,3 +10,6 @@
 [submodule "server/api-gateway"]
 	path = server/api-gateway
 	url = https://github.com/kyeong8139/git-check.api-gateway.git
+[submodule "server/common-module"]
+	path = server/common-module
+	url = https://github.com/kyeong8139/git-check.common-module.git
